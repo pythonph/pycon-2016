@@ -5,6 +5,12 @@
 body {
   font: 20px/1.5 freight-text-pro, serif;
   justify-content: center;
+  background: url(../images/4666468116_793890d311_o.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+main {
+  min-height: 100vh;
 }
 
 h1, h2, h3 {
@@ -24,17 +30,12 @@ a[href="#"] {
   opacity: 0.1;
 }
 
-main {
-  width: 100%;
-  max-width: 60rem;
-}
-
 .index {
   overflow: hidden;
 }
 
 .index h1 {
-  font-size: 6rem;
+  font-size: 8rem;
   font-weight: normal;
 }
 
@@ -43,23 +44,15 @@ main {
   opacity: 0.2;
 }
 
-.index-bg {
-  background: url(../images/4666468116_793890d311_o.jpg) no-repeat center center;
-  background-size: cover;
-}
-
-.index-bg .overlay {
+.overlay {
   background: rgba(0, 0, 0, 0.9);
   justify-content: flex-end;
   align-items: flex-end;
 }
 
-.index-bg .attr a {
+.overlay .attr a {
   color: inherit;
   opacity: 0.2;
-}
-
-.index > div {
 }
 
 .call-for {
