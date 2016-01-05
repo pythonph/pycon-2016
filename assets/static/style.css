@@ -178,7 +178,7 @@ nav a[href="#"]:hover {
 }
 
 .sponsors {
-  max-width: 60rem;
+  max-width: 40rem;
   margin: 0 auto;
   padding: 3rem 1.5rem;
   text-align: center;
@@ -203,7 +203,7 @@ nav a[href="#"]:hover {
   margin: 0;
 }
 
-.sponsor-blurb {
+.sponsor-info {
   padding: 0 1.5rem;
 }
 
