@@ -1,6 +1,63 @@
-title: Welcome to PyCon PH 2016!
+_model: root
 ---
-body:
+title: PyCon Philippines 2016
+---
+body: 
+---
+about:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+__PyCon Philippines__ is a volunteer-run, not-for-profit conference centered around the Python Programming language.
+
+The main goal of this conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.
+
+We have an interest to gather software engineers, programming enthusiasts, startup founders, corporate IT decision makers, students and IT educators in a 2-day event where we can collaborate and learn with each other.
+
+---
+theme: This year's theme is _Diversity_. Our aim is to show that Python has something for everyone: from hobbyists, to educators, to professionals.
+---
+venue:
+
+<pre>
+University of the Philippines
+Cebu Campus
+Lahug, Cebu City
+</pre>
+
+### Accomodation
+
+### Parking
+
+
+---
+speakers:
+
+#### speaker ####
+photo: reina.jpg
+----
+name: Reina Reyes
+----
+bio: 
+---
+sponsors:
+
+#### sponsor ####
+logo: django-logo-positive.svg
+----
+name: Django Software Foundation
+----
+blurb: The Django Software Foundation is a US-based non-profit organisation with the mission to promote, support, and advance the Django Web framework. The DSF sponsors sprints, meetups, gatherings and community events, and protects the intellectual property of the Django project.
+----
+url: https://www.djangoproject.com/foundation/
+---
+bronze_sponsors:
+
+#### sponsor ####
+package: bronze
+----
+logo: django-logo-positive.svg
+----
+name: Django Software Foundation
+----
+blurb: The Django Software Foundation is a US-based non-profit organisation with the mission to promote, support, and advance the Django Web framework. The DSF sponsors sprints, meetups, gatherings and community events, and protects the intellectual property of the Django project.
+----
+url: https://www.djangoproject.com/foundation/

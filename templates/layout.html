@@ -1,28 +1,31 @@
 <!doctype html>
 <meta charset="utf-8">
-<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-<title>{% block title %}Welcome{% endblock %} — PyCon PH 2016</title>
+<script src="https://use.typekit.net/bmw2mzd.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+<link rel="stylesheet" href="{{ '/static/style.css'|asseturl }}">
+<title>{% block title %}{{ this.title }}{% endblock %}</title>
 <body>
   <header>
-    <h1>PyCon PH 2016</h1>
+    <h1>
+      <span class="red">pycon ph</span><br>
+      <span class="gray">CEBU CITY 2016</span>
+    </h1>
     <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
-        {% for href, title in [
-          ['/projects', 'Projects'],
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
+      <ul class="flex">
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#theme">Theme</a></li>
+        <li><a href="/#venue">Venue</a></li>
+        <li><a href="/#speakers">Speakers</a></li>
+        <li><a href="#">Schedule</a></li>
+        <li><a href="#">Tickets</a></li>
+        <li><a href="/#sponsors">Sponsors</a></li>
       </ul>
     </nav>
   </header>
-  <div class="page">
-    {% block body %}{% endblock %}
-  </div>
+  {% block body %}{% endblock %}
   <footer>
-    &copy; Copyright 2015 by Python.PH, Inc..
+    Made with love by the volunteers of <a href="http://python.ph">Python.PH, Inc.</a><br>
+    Illustrations by <a href="http://happygaraje.com/">Happy Garaje</a>
   </footer>
 </body>

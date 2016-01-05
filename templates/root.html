@@ -1,0 +1,53 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="about">
+  <a name="about"></a>
+  {{ this.about }}
+</div>
+<div class="theme flex">
+  <div class="col-50">
+    <a name="theme"></a>
+    <h2>Theme</h2>
+    {{ this.theme }}
+  </div>
+  <div class="col-50">
+    <img src="{{ '/static/superheroes.png'|asseturl }}">
+  </div>
+</div>
+<div class="venue">
+  <a name="venue"></a>
+  <div class="venue-wrap">
+    <div class="venue-text">
+      <h2>Venue</h2>
+      {{ this.venue }}
+    </div>
+  </div>
+  <a class="venue-attrib" href="https://www.flickr.com/photos/storm-crypt/2698275365/">
+    Photo by Storm Crypt
+  </a>
+</div>
+<div class="speakers">
+  <a name="speakers"></a>
+  <h2>Speakers</h2>
+  {% for blk in this.speakers.blocks %}
+    {{ blk }}
+  {% endfor %}
+</div>
+<div class="sponsors">
+  <a name="sponsors"></a>
+  <h2>
+    This event was made possibly with the<br>
+    help of our generous sponsors
+  </h2>
+  <h3>Bronze Sponsors</h3>
+  <ul class="flex flex-wrap">
+    {% for blk in this.bronze_sponsors.blocks %}
+      {{ blk }}
+    {% endfor %}
+  </ul>
+  <p>
+    Interested in sponsoring this event?
+    Inquire at <a href="mailto:pycon@python.ph">pycon@python.ph</a>
+  </p>
+</div>
+{% endblock %}
