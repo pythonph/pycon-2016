@@ -1,2 +1,6 @@
 [project]
 name = PyCon PH 2016
+
+[servers.ghpages]
+name = GitHub Pages
+target = ghpages://pythonph/pycon-2016?cname=pycon.python.ph
