@@ -1,0 +1,214 @@
+* {
+  box-sizing: border-box;
+}
+
+.gray { color: #616161; }
+.red { color: #d14e4d; }
+.flex { display: flex; }
+.flex-wrap { flex-wrap: wrap; }
+.flex-auto { flex: 1 1 auto; }
+.row { width: 100% }
+.col-75 { width: 75% }
+.col-50 { width: 50% }
+.col-25 { width: 25% }
+
+body {
+  font: 20px/1.5 museo-slab, serif;
+  color: #333;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: museo-sans, sans-serif;
+}
+
+h2, h3, h4, h5 {
+  font-weight: 100;
+  color: #d14e4d;
+}
+
+a {
+  color: #d14e4d;
+  text-decoration: none;
+}
+
+a[href="#"] {
+  color: silver;
+}
+
+img {
+  max-width: 100%;
+}
+
+pre {
+  font: inherit;
+}
+
+header {
+  background: url(banner.png) no-repeat center top;
+  background-attachment: fixed;
+  background-size: contain;
+  height: 33vw;
+  margin-bottom: 6rem;
+  padding: 1.5rem;
+  position: relative;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+
+h1 .red {
+  font-size: 6rem;
+  font-weight: 300;
+  letter-spacing: 0.5rem;
+  line-height: 1.25;
+}
+
+h1 .gray {
+  font-size: 1.8rem;
+  font-weight: 100;
+  letter-spacing: 1.2rem;
+  margin-left: 0.6rem;
+}
+
+nav {
+  position: absolute;
+  top: calc(100% + 1.5rem);
+  left: 0;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  width: 60rem;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+nav a {
+  display: inline-block;
+  background: white;
+  padding: 1.5rem;
+  line-height: 1;
+  white-space: nowrap;
+  transition: all ease-in-out 0.2s;
+}
+
+nav a:hover {
+  background: #d14e4d;
+  color: white;
+}
+
+nav a[href="#"]:hover {
+  background: transparent;
+  color: silver;
+}
+
+.about {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.theme {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  align-items: center;
+}
+
+.venue {
+  background: url(upcebu.jpg) no-repeat center bottom;
+  background-size: cover;
+  margin: 3rem 0;
+  position: relative;
+}
+
+.venue-wrap {
+  max-width: 80rem;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.venue-text {
+  display: inline-block;
+  text-align: left;
+  background: white;
+  height: 100vh;
+  padding: 0 3rem;
+}
+
+.venue-attrib {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: small;
+  display: inline-block;
+  margin: 1rem;
+  padding: 0 0.5rem;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.speakers {
+  max-width: 40rem;
+  margin: 3rem auto;
+  background: url(girlandnoy.png) no-repeat center 3rem;
+  background-size: 30rem;
+  padding-top: 33rem;
+}
+
+.speakers h2 {
+  font-size: 4rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.speaker img {
+  border-radius: 50%;
+}
+
+.speaker-info {
+  padding: 0 1.5rem;
+}
+
+.sponsors {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.sponsors h2 {
+  margin-bottom: 3rem;
+}
+
+.sponsors ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sponsor {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.sponsor h4 {
+  line-height: 1;
+  margin: 0;
+}
+
+.sponsor-blurb {
+  padding: 0 1.5rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 25vh;
+  padding: 1.5rem;
+}
