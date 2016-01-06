@@ -5,7 +5,6 @@
 .gray { color: #616161; }
 .red { color: #d14e4d; }
 .flex { display: flex; flex-wrap: wrap; }
-.flex-auto { flex: 1 1 auto; }
 .row { width: 100% }
 .col-75 { width: 75% }
 .col-50 { width: 50% }
@@ -172,6 +171,10 @@ nav a[href="#"]:hover {
 
 .speaker-info {
   padding: 0 1.5rem;
+}
+
+.speaker-info h3 {
+  margin-top: 0;
 }
 
 .sponsors {
