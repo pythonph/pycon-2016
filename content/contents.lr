@@ -54,10 +54,23 @@ bronze_sponsors:
 #### sponsor ####
 package: bronze
 ----
-logo: django-logo-positive.svg
+logo: dsf.svg
 ----
 name: Django Software Foundation
 ----
 blurb: The Django Software Foundation is a US-based non-profit organisation with the mission to promote, support, and advance the Django Web framework. The DSF sponsors sprints, meetups, gatherings and community events, and protects the intellectual property of the Django project.
 ----
 url: https://www.djangoproject.com/foundation/
+---
+gold_sponsors:
+
+#### sponsor ####
+package: gold
+----
+logo: psf.png
+----
+name: Python Software Foundation
+----
+blurb: The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
+----
+url: https://www.python.org/psf/
