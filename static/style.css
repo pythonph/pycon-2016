@@ -191,8 +191,8 @@ nav a[href="#"]:hover {
 }
 
 .sponsor {
-  align-items: flex-start;
   text-align: left;
+  align-items: flex-start;
 }
 
 .sponsor h4 {
@@ -200,8 +200,8 @@ nav a[href="#"]:hover {
   margin: 0;
 }
 
-.sponsor-info {
-  padding: 0 1.5rem;
+.sponsor img {
+  margin: 1.5rem 1.5rem 1.5rem -1.5rem;
 }
 
 footer {
