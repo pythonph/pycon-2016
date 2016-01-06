@@ -1,5 +1,6 @@
 [project]
 name = PyCon PH 2016
+url = https://pycon.python.ph
 
 [servers.ghpages]
 name = GitHub Pages

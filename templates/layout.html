@@ -1,6 +1,10 @@
 <!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="{{ this.title }}">
+<meta property="og:url" content="{{ this|url(external=True) }}">
+<meta property="og:description" content="PyCon Philippines is a volunteer-run, not-for-profit conference centered around the Python Programming language.">
+<meta property="og:image" content="{{ '/static/og.jpg'|url(external=True) }}">
 <script src="https://use.typekit.net/bmw2mzd.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
