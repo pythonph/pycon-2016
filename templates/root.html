@@ -1,12 +1,10 @@
 {% extends "layout.html" %}
 {% block body %}
-<div class="about">
-  <a name="about"></a>
+<div id="about">
   {{ this.about }}
 </div>
-<div class="theme flex">
+<div id="theme" class="flex">
   <div class="col-50">
-    <a name="theme"></a>
     <h2>Theme</h2>
     {{ this.theme }}
   </div>
@@ -14,8 +12,7 @@
     <img src="{{ '/static/superheroes.png'|asseturl }}">
   </div>
 </div>
-<div class="venue">
-  <a name="venue"></a>
+<div id="venue">
   <div class="venue-wrap">
     <div class="venue-text">
       <h2>Venue</h2>
@@ -26,15 +23,13 @@
     Photo by Storm Crypt
   </a>
 </div>
-<div class="speakers">
-  <a name="speakers"></a>
+<div id="speakers">
   <h2>Speakers</h2>
   {% for blk in this.speakers.blocks %}
     {{ blk }}
   {% endfor %}
 </div>
-<div class="sponsors">
-  <a name="sponsors"></a>
+<div id="sponsors">
   <h2>
     This event was made possible with the<br>
     help of our generous sponsors

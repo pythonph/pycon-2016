@@ -74,8 +74,8 @@ h1 .gray {
 }
 
 nav {
-  margin-top: 1.5rem;
   padding: 0 1.5rem;
+  height: 4rem;
 }
 
 nav ul {
@@ -83,42 +83,52 @@ nav ul {
   padding: 0;
   max-width: 60rem;
   margin: 0 auto;
-  justify-content: space-around;
+  background: white;
+  height: 4rem;
+  align-items: stretch;
+}
+
+nav li {
+  flex: 1 1 auto;
 }
 
 nav a {
   display: inline-block;
   background: white;
-  padding: 1.5rem;
-  line-height: 1;
+  line-height: 4rem;
+  height: 100%;
   white-space: nowrap;
   transition: all ease-in-out 0.2s;
+  text-align: center;
+  width: 100%;
 }
 
 nav a:hover {
-  background: #d14e4d;
-  color: white;
+  text-decoration: underline;
 }
 
 nav a[href="#"]:hover {
-  background: transparent;
   color: silver;
 }
 
-.about {
+nav a.active {
+  font-weight: bold;
+}
+
+#about {
   max-width: 40rem;
   margin: 0 auto;
   padding: 1.5rem;
 }
 
-.theme {
+#theme {
   max-width: 60rem;
   margin: 0 auto;
   padding: 1.5rem;
   align-items: center;
 }
 
-.venue {
+#venue {
   background: url(upcebu.jpg) no-repeat center bottom;
   background-size: cover;
   margin: 3rem 0;
@@ -151,7 +161,7 @@ nav a[href="#"]:hover {
   background: rgba(0, 0, 0, 0.5);
 }
 
-.speakers {
+#speakers {
   max-width: 40rem;
   margin: 3rem auto;
   background: url(girlandnoy.png) no-repeat center 3rem;
@@ -159,7 +169,7 @@ nav a[href="#"]:hover {
   padding: 33rem 1.5rem 1.5rem;
 }
 
-.speakers h2 {
+#speakers h2 {
   font-size: 4rem;
   text-align: center;
   margin-bottom: 3rem;
@@ -177,14 +187,14 @@ nav a[href="#"]:hover {
   margin-top: 0;
 }
 
-.sponsors {
+#sponsors {
   max-width: 40rem;
   margin: 0 auto;
   padding: 3rem 1.5rem;
   text-align: center;
 }
 
-.sponsors h2 {
+#sponsors h2 {
   margin-bottom: 3rem;
 }
 
@@ -211,6 +221,17 @@ footer {
   text-align: center;
   margin-top: 25vh;
   padding: 1.5rem;
+}
+
+@media (min-width: 400px) {
+  .header-hidden nav ul {
+    background: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
 }
 
 @media (max-width: 600px) {

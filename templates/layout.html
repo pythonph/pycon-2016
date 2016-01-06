@@ -17,15 +17,15 @@
       <div class="gray">CEBU CITY 2016</div>
     </h1>
   </header>
-  <nav>
-    <ul class="flex">
-      <li><a href="/#about">About</a></li>
-      <li><a href="/#theme">Theme</a></li>
-      <li><a href="/#venue">Venue</a></li>
-      <li><a href="/#speakers">Speakers</a></li>
-      <li><a href="#">Schedule</a></li>
-      <li><a href="#">Tickets</a></li>
-      <li><a href="/#sponsors">Sponsors</a></li>
+  <nav data-gumshoe-header>
+    <ul data-gumshoe class="flex">
+      <li><a data-scroll href="/#about">About</a></li>
+      <li><a data-scroll href="/#theme">Theme</a></li>
+      <li><a data-scroll href="/#venue">Venue</a></li>
+      <li><a data-scroll href="/#speakers">Speakers</a></li>
+      <li><a data-scroll href="#">Schedule</a></li>
+      <li><a data-scroll href="#">Tickets</a></li>
+      <li><a data-scroll href="/#sponsors">Sponsors</a></li>
     </ul>
   </nav>
   {% block body %}{% endblock %}
@@ -33,4 +33,7 @@
     Made with love by the volunteers of <a href="http://python.ph">Python.PH, Inc.</a><br>
     Illustrations by <a href="http://happygaraje.com/">Happy Garaje</a>
   </footer>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.1.1/js/smooth-scroll.min.js"></script>
+  <script src="{{ '/static/gumshoe.min.js'|asseturl }}"></script>
+  <script src="{{ '/static/main.js'|asseturl }}"></script>
 </body>
