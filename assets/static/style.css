@@ -213,6 +213,7 @@ footer {
 @media (max-width: 600px) {
   header {
     background-size: cover;
+    background-attachment: scroll;
     height: 100vh;
   }
   h1 {
