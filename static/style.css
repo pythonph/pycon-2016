@@ -4,8 +4,7 @@
 
 .gray { color: #616161; }
 .red { color: #d14e4d; }
-.flex { display: flex; }
-.flex-wrap { flex-wrap: wrap; }
+.flex { display: flex; flex-wrap: wrap; }
 .flex-auto { flex: 1 1 auto; }
 .row { width: 100% }
 .col-75 { width: 75% }
@@ -50,7 +49,6 @@ header {
   background-attachment: fixed;
   background-size: contain;
   height: 33vw;
-  margin-bottom: 6rem;
   padding: 1.5rem;
   position: relative;
 }
@@ -58,34 +56,33 @@ header {
 h1 {
   margin: 0;
   text-align: center;
+  font-size: 6rem;
 }
 
-
 h1 .red {
-  font-size: 6rem;
+  font-size: 100%;
   font-weight: 300;
-  letter-spacing: 0.5rem;
   line-height: 1.25;
+  letter-spacing: 0.2em;
+  margin-left: 0.1em;
 }
 
 h1 .gray {
-  font-size: 1.8rem;
+  font-size: 30%;
   font-weight: 100;
-  letter-spacing: 1.2rem;
-  margin-left: 0.6rem;
+  letter-spacing: 0.8em;
+  margin-left: 0.4em;
 }
 
 nav {
-  position: absolute;
-  top: calc(100% + 1.5rem);
-  left: 0;
-  width: 100%;
+  margin-top: 1.5rem;
+  padding: 0 1.5rem;
 }
 
 nav ul {
   list-style: none;
   padding: 0;
-  width: 60rem;
+  max-width: 60rem;
   margin: 0 auto;
   justify-content: space-around;
 }
@@ -159,8 +156,8 @@ nav a[href="#"]:hover {
   max-width: 40rem;
   margin: 3rem auto;
   background: url(girlandnoy.png) no-repeat center 3rem;
-  background-size: 30rem;
-  padding-top: 33rem;
+  background-size: 70%;
+  padding: 33rem 1.5rem 1.5rem;
 }
 
 .speakers h2 {
@@ -211,4 +208,31 @@ footer {
   text-align: center;
   margin-top: 25vh;
   padding: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  header {
+    background-size: cover;
+    height: 100vh;
+  }
+  h1 {
+    font-size: 4rem;
+  }
+  nav a {
+    padding: 0.5rem;
+  }
+  .venue-attrib {
+    display: none;
+  }
+}
+
+@media (max-width: 400px) {
+  .col-75,
+  .col-50,
+  .col-25 {
+    width: 100%;
+  }
+  h1 {
+    font-size: 3rem;
+  }
 }
