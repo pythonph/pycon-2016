@@ -75,16 +75,16 @@ h1 .gray {
 
 nav {
   padding: 0 1.5rem;
-  height: 4rem;
+  min-height: 4rem;
 }
 
 nav ul {
   list-style: none;
-  padding: 0;
   max-width: 60rem;
+  padding: 0;
   margin: 0 auto;
   background: white;
-  height: 4rem;
+  min-height: 4rem;
   align-items: stretch;
 }
 
@@ -96,7 +96,7 @@ nav a {
   display: inline-block;
   background: white;
   line-height: 4rem;
-  height: 100%;
+  padding: 0 1.5rem;
   white-space: nowrap;
   transition: all ease-in-out 0.2s;
   text-align: center;
@@ -145,7 +145,7 @@ nav a.active {
   display: inline-block;
   text-align: left;
   background: white;
-  height: 100vh;
+  min-height: 100vh;
   padding: 0 3rem;
 }
 
@@ -223,7 +223,7 @@ footer {
   padding: 1.5rem;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 600px) {
   .header-hidden nav ul {
     background: white;
     position: fixed;
@@ -235,23 +235,6 @@ footer {
 }
 
 @media (max-width: 600px) {
-  header {
-    background-size: 90rem;
-    background-attachment: scroll;
-    height: 30rem;
-  }
-  h1 {
-    font-size: 4rem;
-  }
-  nav a {
-    padding: 0.5rem;
-  }
-  .venue-attrib {
-    display: none;
-  }
-}
-
-@media (max-width: 400px) {
   .col-75,
   .col-50,
   .col-25 {
