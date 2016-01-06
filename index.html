@@ -8,7 +8,7 @@
 <script src="https://use.typekit.net/bmw2mzd.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
-<link rel="stylesheet" href="./static/style.css?h=17e9d7d2">
+<link rel="stylesheet" href="./static/style.css?h=2d1f1e0a">
 <title>PyCon Philippines 2016</title>
 <body>
   <header>
@@ -17,28 +17,26 @@
       <div class="gray">CEBU CITY 2016</div>
     </h1>
   </header>
-  <nav>
-    <ul class="flex">
-      <li><a href="/#about">About</a></li>
-      <li><a href="/#theme">Theme</a></li>
-      <li><a href="/#venue">Venue</a></li>
-      <li><a href="/#speakers">Speakers</a></li>
-      <li><a href="#">Schedule</a></li>
-      <li><a href="#">Tickets</a></li>
-      <li><a href="/#sponsors">Sponsors</a></li>
+  <nav data-gumshoe-header>
+    <ul data-gumshoe class="flex">
+      <li><a data-scroll href="/#about">About</a></li>
+      <li><a data-scroll href="/#theme">Theme</a></li>
+      <li><a data-scroll href="/#venue">Venue</a></li>
+      <li><a data-scroll href="/#speakers">Speakers</a></li>
+      <li><a data-scroll href="#">Schedule</a></li>
+      <li><a data-scroll href="#">Tickets</a></li>
+      <li><a data-scroll href="/#sponsors">Sponsors</a></li>
     </ul>
   </nav>
   
-<div class="about">
-  <a name="about"></a>
+<div id="about">
   <p><strong>PyCon Philippines</strong> is a volunteer-run, not-for-profit conference centered around the Python Programming language.</p>
 <p>The main goal of this conference is to provide a venue where the Python programming language and surrounding technologies can be explored, discussed and exercised.</p>
 <p>We have an interest to gather software engineers, programming enthusiasts, startup founders, corporate IT decision makers, students and IT educators in a 2-day event where we can collaborate and learn with each other.</p>
 
 </div>
-<div class="theme flex">
+<div id="theme" class="flex">
   <div class="col-50">
-    <a name="theme"></a>
     <h2>Theme</h2>
     <p>This year's theme is <em>Diversity</em>. Our aim is to show that Python has something for everyone: from hobbyists, to educators, to professionals.</p>
 
@@ -47,8 +45,7 @@
     <img src="./static/superheroes.png?h=8ea82ac4">
   </div>
 </div>
-<div class="venue">
-  <a name="venue"></a>
+<div id="venue">
   <div class="venue-wrap">
     <div class="venue-text">
       <h2>Venue</h2>
@@ -56,7 +53,8 @@
 University of the Philippines
 Cebu Campus
 Lahug, Cebu City
-</pre><h3>Accomodation</h3>
+</pre><p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1331.2525166230746!2d123.89851447194367!3d10.321936029441012!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9993a38a7cbf1%3A0x5bda0ee47098c2f0!2sUniversity+of+The+Philippines!5e0!3m2!1sen!2s!4v1452094898213" width="300" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+<h3>Accomodation</h3>
 <h3>Parking</h3>
 
     </div>
@@ -65,8 +63,7 @@ Lahug, Cebu City
     Photo by Storm Crypt
   </a>
 </div>
-<div class="speakers">
-  <a name="speakers"></a>
+<div id="speakers">
   <h2>Speakers</h2>
   
     <div class="speaker flex">
@@ -81,8 +78,7 @@ Lahug, Cebu City
 </div>
   
 </div>
-<div class="sponsors">
-  <a name="sponsors"></a>
+<div id="sponsors">
   <h2>
     This event was made possible with the<br>
     help of our generous sponsors
@@ -131,4 +127,7 @@ Lahug, Cebu City
     Made with love by the volunteers of <a href="http://python.ph">Python.PH, Inc.</a><br>
     Illustrations by <a href="http://happygaraje.com/">Happy Garaje</a>
   </footer>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.1.1/js/smooth-scroll.min.js"></script>
+  <script src="./static/gumshoe.min.js?h=570e9b3c"></script>
+  <script src="./static/main.js?h=e20e556a"></script>
 </body>
