@@ -212,9 +212,9 @@ footer {
 
 @media (max-width: 600px) {
   header {
-    background-size: cover;
+    background-size: 90rem;
     background-attachment: scroll;
-    height: 100vh;
+    height: 30rem;
   }
   h1 {
     font-size: 4rem;
@@ -235,5 +235,8 @@ footer {
   }
   h1 {
     font-size: 3rem;
+  }
+  .sponsor img {
+    margin: 1.5rem 0;
   }
 }
