@@ -193,6 +193,16 @@ nav a.active {
   margin-top: 0;
 }
 
+#tickets {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+#tickets .tb-submit {
+  background: #d14e4d;
+}
+
 #sponsors {
   max-width: 40rem;
   margin: 0 auto;
