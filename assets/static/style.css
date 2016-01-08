@@ -124,7 +124,7 @@ nav a.active {
 #about {
   max-width: 40rem;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 3rem 1.5rem;
 }
 
 #theme {
@@ -196,7 +196,7 @@ nav a.active {
 #tickets {
   max-width: 60rem;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 3rem 1.5rem;
 }
 
 #tickets .tb-submit {
