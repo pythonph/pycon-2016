@@ -1,4 +1,5 @@
 {% extends "layout.html" %}
+
 {% block body %}
 <div id="about">
   {{ this.about }}
@@ -51,4 +52,11 @@
     Inquire at <a href="mailto:pycon@python.ph">pycon@python.ph</a>
   </p>
 </div>
+{% endblock %}
+
+{% block js %}
+{{ super() }}
+<script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.1.1/js/smooth-scroll.min.js"></script>
+<script src="{{ '/static/gumshoe.min.js'|asseturl }}"></script>
+<script src="{{ '/static/root.js'|asseturl }}"></script>
 {% endblock %}

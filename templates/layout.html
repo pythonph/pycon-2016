@@ -33,7 +33,7 @@
     Made with love by the volunteers of <a href="http://python.ph">Python.PH, Inc.</a><br>
     Illustrations by <a href="http://happygaraje.com/">Happy Garaje</a>
   </footer>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.1.1/js/smooth-scroll.min.js"></script>
-  <script src="{{ '/static/gumshoe.min.js'|asseturl }}"></script>
-  <script src="{{ '/static/main.js'|asseturl }}"></script>
+  {% block js %}
+  <script src="{{ '/static/header.js'|asseturl }}"></script>
+  {% endblock %}
 </body>

@@ -1,5 +1,3 @@
-smoothScroll.init();
-gumshoe.init();
 var header = document.querySelector('header');
 var prevVisible;
 function toggleHeader(e) {
@@ -14,4 +12,3 @@ function toggleHeader(e) {
 }
 window.addEventListener('scroll', toggleHeader);
 toggleHeader();
-
