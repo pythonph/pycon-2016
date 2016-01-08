@@ -115,6 +115,12 @@ nav a.active {
   font-weight: bold;
 }
 
+.page {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
 #about {
   max-width: 40rem;
   margin: 0 auto;

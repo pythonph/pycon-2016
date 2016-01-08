@@ -1,0 +1,2 @@
+smoothScroll.init();
+gumshoe.init();
