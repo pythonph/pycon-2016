@@ -13,16 +13,14 @@
     <img src="{{ '/static/superheroes.png'|asseturl }}">
   </div>
 </div>
-<div id="venue">
-  <div class="venue-wrap">
-    <div class="venue-text">
-      <h2>Venue</h2>
-      {{ this.venue }}
-    </div>
+<div id="venue" class="flex">
+  <div class="venue-map col-50">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1331.2525166230746!2d123.89851447194367!3d10.321936029441012!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9993a38a7cbf1%3A0x5bda0ee47098c2f0!2sUniversity+of+The+Philippines!5e0!3m2!1sen!2s!4v1452094898213" frameborder="0" allowfullscreen></iframe>
   </div>
-  <a class="venue-attrib" href="https://www.flickr.com/photos/storm-crypt/2698275365/">
-    Photo by Storm Crypt
-  </a>
+  <div class="venue-text col-50">
+    <h2>Venue</h2>
+    {{ this.venue }}
+  </div>
 </div>
 <div id="schedule">
   <h2>Schedule</h2>
