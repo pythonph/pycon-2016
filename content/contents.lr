@@ -53,6 +53,21 @@ photo: reina.jpg
 name: Reina Reyes
 ----
 bio: Reina Reyes is a data science consultant based in Manila. She is also a part-time lecturer at Ateneo de Manila University and Rizal Technological University. Before returning to the Philippines to pursue data science, she did research on galaxy formation and cosmology at Princeton University and the University of Chicago.
+#### speaker ####
+photo: prem.jpg
+----
+name: Prem
+----
+bio:
+
+Prem's most recent life experience was listening on some mind-bending music
+while on a road trip with no other than Dr. Richard Stallman (RMS)
+in Northern Mindanao. He gave RMS enough hacking time beside a
+majestic waterfall so he can finish his essay on climate change
+Earth under attack from planet [Koch](https://stallman.org/articles/planet-koch.html)
+
+Prem is partner and engineer at Cascadeo, Inc. doing cloud devops and
+big data analysis.
 ---
 sponsors:
 
