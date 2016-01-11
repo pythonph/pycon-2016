@@ -135,7 +135,7 @@ nav a.active {
 }
 
 #venue {
-  margin: 3rem 0;
+  padding: 3rem 0;
   position: relative;
   align-items: stretch;
 }
