@@ -165,17 +165,21 @@ nav a.active {
 }
 
 #speakers {
-  max-width: 40rem;
-  margin: 3rem auto;
-  background: url(girlandnoy.png) no-repeat center 3rem;
-  background-size: 70%;
-  padding: 33rem 1.5rem 1.5rem;
+  max-width: 80rem;
+  margin: 0 auto;
+  background: url(girlandnoy.png) no-repeat center 6rem;
+  background-size: 25rem;
+  padding: 30rem 1.5rem 1.5rem;
 }
 
 #speakers h2 {
   font-size: 4rem;
   text-align: center;
   margin-bottom: 3rem;
+}
+
+.speaker {
+  padding: 1.5rem;
 }
 
 .speaker img {
@@ -260,6 +264,11 @@ footer {
   }
   h1 {
     font-size: 3rem;
+  }
+  #speakers {
+    background-position: center top;
+    background-size: 15rem;
+    padding-top: 15rem;
   }
   .speaker img {
     max-width: 50%;
