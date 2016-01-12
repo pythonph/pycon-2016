@@ -27,12 +27,14 @@
   {{ this.schedule }}
 </div>
 <div id="speakers">
-  <h2>Speakers</h2>
+  <h2 class="center">Speakers</h2>
   <div class="flex flex-wrap">
   {% for blk in this.speakers.blocks %}
     {{ blk }}
   {% endfor %}
-  </div>
+    <div class="row center">
+      <small>More speakers to follow...</small>
+    </div>
 </div>
 <div id="tickets">
   <h2>Tickets</h2>
@@ -43,7 +45,7 @@
   ></div>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://cdn.ticketbase.com/widgets/v0.1/ticketbase.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','ticketbase-wjs');</script>
 </div>
-<div id="sponsors">
+<div id="sponsors" class="center">
   <h2>
     This event was made possible with the<br>
     help of our generous sponsors
