@@ -2,7 +2,7 @@ _model: root
 ---
 title: PyCon Philippines 2016
 ---
-body:
+body: 
 ---
 about:
 
@@ -73,17 +73,13 @@ photo: ian-panganiban.jpg
 ----
 name: Luis Caezar Ian K. Pangniban
 ----
-bio:
-
-Ian is a Science Research Specialist II for a DOST-PCIEERD funded project which deals with the development of Web-based Geographic Information Systems for ocean renewable energy in UP Diliman. He is also a licensed geodetic engineer and a freelance WebGIS consultant/developer.
+bio: Ian is a Science Research Specialist II for a DOST-PCIEERD funded project which deals with the development of Web-based Geographic Information Systems for ocean renewable energy in UP Diliman. He is also a licensed geodetic engineer and a freelance WebGIS consultant/developer.
 #### speaker ####
 photo: cham-mamador.jpg
 ----
 name: Charymne B. Mamador
 ----
-bio:
-
-Cham currently works as a Science Research Specialist II for developing web-based geographic information systems for ocean renewable energy. She mainly handles the frontend and the mapping interface of PhilSHORE. She is currently taking her Masters - in Energy Engineering in UP Diliman. She is also a freelance WebGIS developer and consultant and also a licensed geodetic engineer.
+bio: Cham currently works as a Science Research Specialist II for developing web-based geographic information systems for ocean renewable energy. She mainly handles the frontend and the mapping interface of PhilSHORE. She is currently taking her Masters - in Energy Engineering in UP Diliman. She is also a freelance WebGIS developer and consultant and also a licensed geodetic engineer.
 #### speaker ####
 photo: richel.png
 ----
@@ -96,28 +92,21 @@ She is passionate about linguistics that is how she got into learning to code.
 #### speaker ####
 photo: evan.jpg
 ----
-name:
-
- Evan Dale Aromin
+name: Evan Dale Aromin
 ----
-bio:
-
-Evan Dale is a software engineer currently working at [coins.ph](https://coins.ph), a startup that brings financial services to the
-unbanked using mobile and blockchain technology. As their first engineer, he worked on most of their products
-using whatever knowledge he can to bring value to their customers. He enjoys working on different layers of
-the stack, whether it be mobile, API backends, or web frontends.
-=======
-photo: gq.jpg
-----
-name: Gerald Quisumbing
-----
-bio: Gerald Quisumbing or GQ for short, has been an IT consultant for over 15 years in various organizations and firms. GQ was recently an enterprise architect for a financial platform company where he learned to use Python for enterprise financial systems. He finished his degree in psychology at the Ateneo de Manila University but opted to be a geek instead of becoming a shrink. In the next few months, he will finish his master's degree in technology management at the University of the Philippines while studying design1o1 in Iversity.
+bio: Evan Dale is a software engineer currently working at [coins.ph](https://coins.ph), a startup that brings financial services to the unbanked using mobile and blockchain technology. As their first engineer, he worked on most of their products using whatever knowledge he can to bring value to their customers. He enjoys working on different layers of the stack, whether it be mobile, API backends, or web frontends.
 #### speaker ####
 photo: mithi.jpg
 ----
 name: Mithi Sevilla
 ----
 bio: Mithi is a robotics enthusiast and a life long self-learner. She loves code readability so much that she sometimes rewrites other people's code to get better at it. Check out some of her works at [Medium](http://mithi.xyz), and [GitHub](http://github.com/mithi).
+#### speaker ####
+photo: gq.jpg
+----
+name: Gerald Quisumbing
+----
+bio: Gerald Quisumbing or GQ for short, has been an IT consultant for over 15 years in various organizations and firms. GQ was recently an enterprise architect for a financial platform company where he learned to use Python for enterprise financial systems. He finished his degree in psychology at the Ateneo de Manila University but opted to be a geek instead of becoming a shrink. In the next few months, he will finish his master's degree in technology management at the University of the Philippines while studying design1o1 in Iversity.
 ---
 sponsors:
 
