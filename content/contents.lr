@@ -159,6 +159,24 @@ name: KLab Cyscorpions
 blurb: We are a mobile company make games and services for smartphone. We drill our skills and make our best effort for ourselves, our users and society.
 ----
 url: http://www.cyscorpions.com/
+#### sponsor ####
+package: bronze
+----
+logo: eldarion.png
+----
+name: Eldarion
+----
+blurb:
+
+Since 2009 the team at Eldarion has been helping people to get from idea to launch, faster.
+
+We develop tools, apps, and websites for clients around the world, ranging from established companies to individuals with an entrepreneurial vision.
+
+Open source is at the heart of Eldarion. Our team members lead or contribute to a range of projects including Python, Django, Pinax, and many individual Django apps.
+
+We don’t just use the best tools to get from idea to launch, we help write them.
+----
+url: http://eldarion.com/
 ---
 gold_sponsors:
 
