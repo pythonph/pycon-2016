@@ -192,6 +192,20 @@ Open source is at the heart of Eldarion. Our team members lead or contribute to 
 We don’t just use the best tools to get from idea to launch, we help write them.
 ----
 url: http://eldarion.com/
+#### sponsor ####
+package: bronze
+----
+logo: plone.png
+----
+name: Plone
+----
+blurb:
+
+The premier Python open-source CMS
+
+Plone 5 is fifteen years of stability wrapped in a modern, powerful user-centric package. It continues to set the pace for content management systems by offering the most functionality and customization out of the box.
+----
+url: https://plone.org/
 ---
 gold_sponsors:
 
