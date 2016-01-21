@@ -166,6 +166,32 @@ name: Mr. Valdez
 topic: Python for Beginners
 ----
 bio: Mr. Valdez is a teacher and hobbyist game programmer. He have taught Python to various students, ranging from complete beginners to intermediates. He lost his first name in an accident involving a wizard. He is hoping to graduate to a Doctor (in Information Technology) before the year ends.
+#### speaker ####
+photo: jon.jpg
+----
+name: Jon Danao
+----
+topic: Django Workshop
+----
+bio:
+
+Jon is the CEO of [The App Factory](http://theappfactory.io) and former Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili. 
+#### speaker ####
+photo: irisuy.png
+----
+name: Iris Diana Uy
+----
+topic: How Python facilitates the analysis of high-throughput genomic data
+----
+bio: Iris is a molecular biologist whose love for the ocean led her to study the genomes of marine creatures.  She stumbled upon Python five years ago, and that opened the world of bioinformatics to her.  Both Python and bioinformatics have since been endeared to her.  Today, she is a Senior Bioinformatics Specialist in the Philippine Genome Center.
+#### speaker ####
+photo: maryletteroa.jpg
+----
+name: Marylette Roa
+----
+topic: How Python facilitates the analysis of high-throughput genomic data
+----
+bio: Marylette is a molecular biologist from the University of the Philippines Diliman. Her life choices so far has led her from the lab to the exciting and nerve-wracking field of bioinformatics. Currently, she is a Senior Bioinformatics Specialist at the Philippine Genome Center.
 ---
 sponsors:
 
