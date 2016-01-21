@@ -52,11 +52,15 @@ photo: reina.jpg
 ----
 name: Reina Reyes
 ----
+topic: Keynote
+----
 bio: Reina Reyes is a data science consultant based in Manila. She is also a part-time lecturer at Ateneo de Manila University and Rizal Technological University. Before returning to the Philippines to pursue data science, she did research on galaxy formation and cosmology at Princeton University and the University of Chicago.
 #### speaker ####
 photo: carol.jpg
 ----
 name: Carol Willing
+----
+topic: Keynote
 ----
 bio:
 
@@ -66,6 +70,8 @@ She recently spoke at Grace Hopper Celebration 2015, PyCon 2015, and Write/Speak
 photo: prem.jpg
 ----
 name: Prem Vilas Fortran Rara
+----
+topic: Eat your vegetables for high availability
 ----
 bio:
 
@@ -82,17 +88,23 @@ photo: ian-panganiban.jpg
 ----
 name: Luis Caezar Ian K. Pangniban
 ----
+topic: Developing PhilSHORE a Marine Spatial Tool with Python
+----
 bio: Ian is a Science Research Specialist II for a DOST-PCIEERD funded project which deals with the development of Web-based Geographic Information Systems for ocean renewable energy in UP Diliman. He is also a licensed geodetic engineer and a freelance WebGIS consultant/developer.
 #### speaker ####
 photo: cham-mamador.jpg
 ----
 name: Charmyne B. Mamador
 ----
+topic: Developing PhilSHORE a Marine Spatial Tool with Python
+----
 bio: Cham currently works as a Science Research Specialist II for developing web-based geographic information systems for ocean renewable energy. She mainly handles the frontend and the mapping interface of PhilSHORE. She is currently taking her Masters - in Energy Engineering in UP Diliman. She is also a freelance WebGIS developer and consultant and also a licensed geodetic engineer.
 #### speaker ####
 photo: richel.png
 ----
 name: Richel Alexandria Valdez
+----
+topic: Why start to teach others to code (in Python)
 ----
 bio:
 
@@ -103,11 +115,15 @@ photo: evan.jpg
 ----
 name: Evan Dale Aromin
 ----
+topic: Dealing with the diversity of technology
+----
 bio: Evan Dale is a software engineer currently working at [coins.ph](https://coins.ph), a startup that brings financial services to the unbanked using mobile and blockchain technology. As their first engineer, he worked on most of their products using whatever knowledge he can to bring value to their customers. He enjoys working on different layers of the stack, whether it be mobile, API backends, or web frontends.
 #### speaker ####
 photo: mithi.jpg
 ----
 name: Mithi Sevilla
+----
+topic: A Raspberry Pi Hexy
 ----
 bio: Mithi is a robotics enthusiast and a life long self-learner. She loves code readability so much that she sometimes rewrites other people's code to get better at it. Check out some of her works at [Medium](http://mithi.xyz), and [GitHub](http://github.com/mithi).
 #### speaker ####
@@ -115,11 +131,15 @@ photo: gq.jpg
 ----
 name: Gerald Quisumbing
 ----
+topic: Python for the world's fastest trading engines
+----
 bio: Gerald Quisumbing or GQ for short, has been an IT consultant for over 15 years in various organizations and firms. GQ was recently an enterprise architect for a financial platform company where he learned to use Python for enterprise financial systems. He finished his degree in psychology at the Ateneo de Manila University but opted to be a geek instead of becoming a shrink. In the next few months, he will finish his master's degree in technology management at the University of the Philippines while studying design1o1 in Iversity.
 #### speaker ####
 photo: joel.jpg
 ----
 name: Joel Aldor
+----
+topic: Deploying a Python/Django application to help protect Philippine cultural heritage
 ----
 bio: Joel Aldor is a solutions architect by profession, having worked with blue-chip companies like Adobe and AIG in designing and deploying enterprise systems for businesses around the world. He is also a writer, photographer and a cultural heritage practitioner. His works for the documentation of colonial architecture around the Philippines has gained recognition and awards by the National Commission for Culture and the Arts and National Museum of the Philippines, as well as several institutions locally and around the world. He is one of the co-founders of Grupo Kalinangan, Inc., a non-profit organization that deployed the Philippine Heritage Map.
 #### speaker ####
@@ -127,17 +147,23 @@ photo: alger.jpg
 ----
 name: Alger Remirata
 ----
+topic: Big Data and Python - Introduction to Apache PySpark
+----
 bio: Alger is currently working in Savvysherpa, a data science company with offices in Minnesota, Utah and Cebu. Most of his work is focused on performing data analysis and data mining on data coming from various industries like healthcare, telecommunications and call center operations. They implement machine learning algorithms to uncover hidden structure of data with Python as the main programming language being used.
 #### speaker ####
 photo: loveme.jpg
 ----
 name: Loveme Felicilda
 ----
+topic: Machine Learning in Python
+----
 bio: Loveme Felicilda is a researcher at Savvysherpa Inc. Has been using Python for healthcare, telecommunication and call center data analysis and machine learning since 2013. She is currently working on Natural Language Processing and Topic Modeling projects.
 #### speaker ####
 photo: sony.jpg
 ----
 name: Mr. Valdez
+----
+topic: Python for Beginners
 ----
 bio: Mr. Valdez is a teacher and hobbyist game programmer. He have taught Python to various students, ranging from complete beginners to intermediates. He lost his first name in an accident involving a wizard. He is hoping to graduate to a Doctor (in Information Technology) before the year ends.
 ---
