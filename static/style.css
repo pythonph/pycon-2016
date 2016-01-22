@@ -190,6 +190,10 @@ nav a.active {
 }
 
 .speaker-info h3 {
+  margin: 0;
+}
+
+.speaker-info h4 {
   margin-top: 0;
 }
 
