@@ -200,6 +200,26 @@ name: Marylette Roa
 topic: How Python facilitates the analysis of high-throughput genomic data
 ----
 bio: Marylette is a molecular biologist from the University of the Philippines Diliman. Her life choices so far has led her from the lab to the exciting and nerve-wracking field of bioinformatics. Currently, she is a Senior Bioinformatics Specialist at the Philippine Genome Center.
+#### speaker ####
+photo: austin.jpg
+----
+name: Austin G. Imperial
+----
+topic: PyCon Inspiration
+----
+bio: Austin G. Imperial is a 14-year-old grade 8 student born in the year of the ~~Python~~ snake who uses the power of the Internet as a tool to teach himself how to code. He enjoys coding since June 1, 2014. So far he has learned Python, PHP, Ruby, JavaScript, jQuery, C, C++, SQL, HTML & CSS. He will spend time scrutinizing your profile page before accepting your friend request.
+#### speaker ####
+photo: russell.jpg
+----
+name:
+
+Russell Shepherd 
+----
+topic: Bringing people together with iPython
+----
+bio:
+
+Russell is currently the CTO of Rappler.com, where he brings his background in quantitative social science to the future of media. Russell loves exploring real world problems by blending from methods from statistics, economics, social network analysis, and natural language processing for a wide variety of applications including counter terrorism, disaster response, venture capital and social media marketing. 
 ---
 sponsors:
 
