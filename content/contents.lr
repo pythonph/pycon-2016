@@ -294,6 +294,16 @@ The premier Python open-source CMS
 Plone 5 is fifteen years of stability wrapped in a modern, powerful user-centric package. It continues to set the pace for content management systems by offering the most functionality and customization out of the box.
 ----
 url: https://plone.org/
+#### sponsor ####
+package: bronze
+----
+logo: pycharm.png
+----
+name: JetBrains PyCharm
+----
+blurb: JetBrains PyCharm — Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django framework.
+----
+url: https://www.jetbrains.com/pycharm/
 ---
 gold_sponsors:
 
