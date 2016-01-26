@@ -64,8 +64,8 @@ topic: Keynote
 ----
 bio:
 
-Carol Willing is a Director of the Python Software Foundation, a research software engineer at Cal Poly SLO working on Project Jupyter, and a Geek-In-Residence at Fab Lab San Diego. She co-organizes PyLadies San Diego and San Diego Python. She’s a contributor to CPython and Audrey Roy Greenfeld’s Cookiecutter project, a maintainer for OpenHatch and the Anita Borg Institute’s open source projects, and a mentor for Google Summer of Code and GoogleCode In. Combining a love of nature, the arts, and math with a BSE in Electrical Engineering from Duke University and an MS in Management from MIT, she’s enjoyed creating software and teaching others for over 20 years. 
-She recently spoke at Grace Hopper Celebration 2015, PyCon 2015, and Write/Speak/Code2015. 
+Carol Willing is a Director of the Python Software Foundation, a research software engineer at Cal Poly SLO working on Project Jupyter, and a Geek-In-Residence at Fab Lab San Diego. She co-organizes PyLadies San Diego and San Diego Python. She’s a contributor to CPython and Audrey Roy Greenfeld’s Cookiecutter project, a maintainer for OpenHatch and the Anita Borg Institute’s open source projects, and a mentor for Google Summer of Code and GoogleCode In. Combining a love of nature, the arts, and math with a BSE in Electrical Engineering from Duke University and an MS in Management from MIT, she’s enjoyed creating software and teaching others for over 20 years.
+She recently spoke at Grace Hopper Celebration 2015, PyCon 2015, and Write/Speak/Code2015.
 #### speaker ####
 photo: djay.jpg
 ----
@@ -183,7 +183,7 @@ topic: Django Workshop
 ----
 bio:
 
-Jon is the CEO of [The App Factory](http://theappfactory.io) and former Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili. 
+Jon is the CEO of [The App Factory](http://theappfactory.io) and former Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili.
 #### speaker ####
 photo: irisuy.png
 ----
@@ -213,19 +213,19 @@ photo: russell.jpg
 ----
 name:
 
-Russell Shepherd 
+Russell Shepherd
 ----
 topic: Bringing people together with iPython
 ----
 bio:
 
-Russell is currently the CTO of Rappler.com, where he brings his background in quantitative social science to the future of media. Russell loves exploring real world problems by blending from methods from statistics, economics, social network analysis, and natural language processing for a wide variety of applications including counter terrorism, disaster response, venture capital and social media marketing. 
+Russell is currently the CTO of Rappler.com, where he brings his background in quantitative social science to the future of media. Russell loves exploring real world problems by blending from methods from statistics, economics, social network analysis, and natural language processing for a wide variety of applications including counter terrorism, disaster response, venture capital and social media marketing.
 #### speaker ####
 photo: isabel.jpg
 ----
 name: Isabel Sieh
 ----
-topic: 
+topic:
 ----
 bio: Isabel Sieh, 12 years old, Grade 7, Founder of Girls Will Code, Winner in Star Wars costume competition when she made an app as part of her costume.
 ---
@@ -307,9 +307,211 @@ name: Python Software Foundation
 blurb: The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
 ----
 url: https://www.python.org/psf/
+----
 ---
-schedule:
+schedule_day_1:
 
-February 27-28, 2016
+#### timeslot ####
+time: 2016-2-27 07:30
+----
+title: Registration
+----
+person: 
+#### timeslot ####
+time: 2016-2-27 8:00
+----
+title: Opening Remarks
+----
+person: 
+#### timeslot ####
+time: 2016-2-27 8:15
+----
+title: TBA
+----
+person: Isabel Sieh
+#### timeslot ####
+time: 2016-2-27 8:50
+----
+title: TBA
+----
+person: Carol Willing
+#### timeslot ####
+time: 2016-2-27 9:30
+----
+title: Full-stack: Dealing with the diversity of technology
+----
+person: Evan Dale Aromin
+#### timeslot ####
+time: 2016-2-27 10:05
+----
+title: Break
+----
+person: 
+#### timeslot ####
+time: 2016-2-27 10:35
+----
+title: Developing PhilSHORE a Marine Spatial Tool with Python
+----
+person: Ian Panganiban & Charmyne Mamador
+#### timeslot ####
+time: 2016-2-27 11:25
+----
+title: A Raspberry Pi Hexy
+----
+person: Mithi Sevilla
+#### timeslot ####
+time: 2016-2-27 12:00
+----
+title: Lunch
+----
+person: 
+#### timeslot ####
+time: 2016-2-27 13:00
+----
+title: TBA
+----
+person: Austin Imperial
+#### timeslot ####
+time: 2016-2-27 13:35
+----
+title: Bringing people together with iPython
+----
+person: Russell Shepherd
+#### timeslot ####
+time: 2016-2-27 14:25
+----
+title: Python for the world's fastest trading engines
+----
+person: Gerald Quisumbing
+#### timeslot ####
+time: 2016-2-27 15:00
+----
+title: Break
+----
+person: 
+#### timeslot ####
+time: 2016-2-27 15:30
+----
+title: How Python facilitates the analysis of high-throughput genomic data
+----
+person: Marylette Roa & Iris Uy
+#### timeslot ####
+time: 2016-2-27 16:20
+----
+title: TBA
+----
+person: Reina Reyes
+#### timeslot ####
+time: 2016-2-27 17:00
+----
+title: End of Day 1
+----
+person: 
+---
+schedule_day_2:
 
-<small>Details to follow&hellip;</small>
+#### timeslot ####
+time: 2016-2-28 7:30
+----
+title: Registration
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 8:00
+----
+title: TBA
+----
+person: Dylan Jay
+#### timeslot ####
+time: 2016-2-28 9:00
+----
+title: Scientists Panel
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 9:40
+----
+title: Break
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 9:55
+----
+title: Lightning Talks
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 10:40
+----
+title: Why start to teach others to code (in Python)
+----
+person: Richel Valdez
+#### timeslot ####
+time: 2016-2-28 11:25
+----
+title: Deploying Arches, a Python/Django app to help document and protect cultural and historic sites in the Philippines
+----
+person: Joel ALdor
+#### timeslot ####
+time: 2016-2-28 12:15
+----
+title: Lunch
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 13:15
+----
+title: Workshops
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 17:15
+----
+title: Closing Remarks
+----
+person: 
+#### timeslot ####
+time: 2016-2-28 17:30
+----
+title: End of Conference
+----
+person: 
+---
+workshops_main:
+
+#### timeslot ####
+time: 2016-2-28 13:15
+----
+title: Eat your vegetables for high availability
+----
+person: Prem Vilas Fortran Rara
+#### timeslot ####
+time: 2016-2-28 14:00
+----
+title: Machine Learning in Python
+----
+person: Loveme Felicilda
+#### timeslot ####
+time: 2016-2-28 15:30
+----
+title: Big Data and Python - Introduction to Apache PySpark
+----
+person: Alger Remirata
+---
+workshops_room_a:
+
+#### timeslot ####
+time: 2016-2-28 13:15
+----
+title: Python for Beginners
+----
+person: Sony Valdez
+---
+workshops_room_b:
+
+#### timeslot ####
+time: 2016-2-28 13:15
+----
+title: Django Workshop
+----
+person: Jon Danao

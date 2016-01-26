@@ -24,7 +24,37 @@
 </div>
 <div id="schedule">
   <h2>Schedule</h2>
-  {{ this.schedule }}
+  <h3>Day 1</h3>
+  <table class="row">
+  {% for blk in this.schedule_day_1.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </table>
+  <h3>Day 2</h3>
+  <table class="row">
+  {% for blk in this.schedule_day_2.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </table>
+  <h3>Workshops</h3>
+  <h4>Main Hall</h4>
+  <table class="row">
+  {% for blk in this.workshops_main.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </table>
+  <h4>Room A</h4>
+  <table class="row">
+  {% for blk in this.workshops_room_a.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </table>
+  <h4>Room B</h4>
+  <table class="row">
+  {% for blk in this.workshops_room_b.blocks %}
+    {{ blk }}
+  {% endfor %}
+  </table>
 </div>
 <div id="speakers">
   <h2 class="center">Speakers</h2>
