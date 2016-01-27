@@ -67,10 +67,9 @@ h1 .red {
 }
 
 h1 .gray {
-  font-size: 30%;
+  font-size: 25%;
   font-weight: 100;
-  letter-spacing: 0.8em;
-  margin-left: 0.4em;
+  letter-spacing: 0.4em;
 }
 
 nav {
