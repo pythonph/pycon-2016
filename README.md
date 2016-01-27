@@ -10,3 +10,10 @@ Website for PyCon Philippines 2016
 6. Commit and send pull request
 
 You can also run `lektor deploy` if you're a repo collaborator.
+
+## Makefile
+
+- Build: `make`
+- Get latest: `make update`
+- Deploy: `make deploy`
+

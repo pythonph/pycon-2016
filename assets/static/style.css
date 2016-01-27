@@ -164,6 +164,25 @@ nav a.active {
   padding: 3rem 1.5rem;
 }
 
+.timeslot td {
+  vertical-align: top;
+}
+
+.timeslot .time {
+  width: 15%;
+  text-align: right;
+  padding-right: 1.5rem;
+}
+
+.timeslot .title {
+  width: 50%;
+  padding-right: 1.5rem;
+}
+
+.timeslot .person {
+  width: 35%;
+}
+
 #speakers {
   max-width: 80rem;
   margin: 0 auto;
