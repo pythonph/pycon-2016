@@ -52,7 +52,7 @@ photo: reina.jpg
 ----
 name: Reina Reyes
 ----
-topic: Keynote
+topic: Python x Data x Science
 ----
 bio: Reina Reyes is a data science consultant based in Manila. She is also a part-time lecturer at Ateneo de Manila University and Rizal Technological University. Before returning to the Philippines to pursue data science, she did research on galaxy formation and cosmology at Princeton University and the University of Chicago.
 #### speaker ####
@@ -60,7 +60,7 @@ photo: carol.jpg
 ----
 name: Carol Willing
 ----
-topic: Keynote
+topic: Python — the People's Programming Language
 ----
 bio:
 
@@ -219,9 +219,9 @@ photo: isabel.jpg
 ----
 name: Isabel Sieh
 ----
-topic: 
+topic: Building a Coding Community
 ----
-bio: Isabel Sieh, 12 years old, Grade 7, Founder of Girls Will Code, Winner in Star Wars costume competition when she made an app as part of her costume.
+bio: Isabel is a 12 year-old Grade 7 student who started teaching herself to code online when she was 10.  She has learned HTML, CSS, JavaScript and Python. In her attempts to find a community of coders, she founded Girls Will Code as an after school activity.  She loves reading, tennis, math and piano.  She is part of serial entrepreneur group Sieh Sisters who won Best Booth in 2014 Kiddopreneur Bazaar. Their latest venture is a cotton candy rental machine.  Last month she won a Star Wars costume competition where she incorporated an app on a cell phone on her R2D2 costume.
 ---
 sponsors:
 
@@ -320,13 +320,13 @@ person:
 #### timeslot ####
 time: 2016-2-27 8:15
 ----
-title: TBA
+title: Building a Coding Community
 ----
 person: Isabel Sieh
 #### timeslot ####
 time: 2016-2-27 8:50
 ----
-title: TBA
+title: Python — the People's Programming Language
 ----
 person: Carol Willing
 #### timeslot ####
@@ -392,7 +392,7 @@ person: Marylette Roa & Iris Uy
 #### timeslot ####
 time: 2016-2-27 16:20
 ----
-title: TBA
+title: Python x Data x Science
 ----
 person: Reina Reyes
 #### timeslot ####
@@ -413,7 +413,7 @@ person:
 #### timeslot ####
 time: 2016-2-28 8:00
 ----
-title: TBA
+title: Keynote
 ----
 person: Dylan Jay
 #### timeslot ####
