@@ -4,6 +4,7 @@
 
 .gray { color: #616161; }
 .red { color: #d14e4d; }
+
 .flex { display: flex; flex-wrap: wrap; }
 .row { width: 100% }
 .col-75 { width: 75% }
@@ -88,7 +89,7 @@ nav ul {
 }
 
 nav li {
-  flex: 1 1 auto;
+  flex: auto;
 }
 
 nav a {
@@ -174,6 +175,7 @@ nav a.active {
 }
 
 .timeslot .title {
+  font-weight: bold;
   width: 50%;
   padding-right: 1.5rem;
 }
@@ -204,7 +206,7 @@ nav a.active {
 }
 
 .speaker-info {
-  padding: 0 1.5rem;
+  padding: 1.5rem;
 }
 
 .speaker-info h3 {
@@ -284,13 +286,29 @@ footer {
   h1 {
     font-size: 3rem;
   }
+  nav li {
+    width: 50%;
+  }
+  nav a {
+    line-height: 3rem;
+    padding: 0;
+  }
+  .timeslot {
+    display: block;
+    margin-bottom: 1.5rem;
+  }
+  .timeslot .time,
+  .timeslot .title,
+  .timeslot .person {
+    text-align: left;
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
   #speakers {
     background-position: center top;
     background-size: 15rem;
     padding-top: 15rem;
-  }
-  .speaker img {
-    max-width: 50%;
   }
   .sponsor img {
     margin: 1.5rem 0;
