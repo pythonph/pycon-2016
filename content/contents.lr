@@ -52,7 +52,7 @@ photo: reina.jpg
 ----
 name: Reina Reyes
 ----
-topic: Python x Data x Science
+topic: Keynote: Python x Data x Science
 ----
 bio: Reina Reyes is a data science consultant based in Manila. She is also a part-time lecturer at Ateneo de Manila University and Rizal Technological University. Before returning to the Philippines to pursue data science, she did research on galaxy formation and cosmology at Princeton University and the University of Chicago.
 #### speaker ####
@@ -60,7 +60,7 @@ photo: carol.jpg
 ----
 name: Carol Willing
 ----
-topic: Python — the People's Programming Language
+topic: Keynote: Python — the People's Programming Language
 ----
 bio:
 
@@ -71,9 +71,9 @@ photo: djay.jpg
 ----
 name: Dylan Jay
 ----
-topic: Keynote
+topic: Keynote: A case study in customisable software
 ----
-bio: Plone core developer and CTO of PretaGov
+bio: Dylan is CTO of PretaGov UK and Australia. He brings over 15 years Python, Zope and Plone experience to his company which helps governments deliver great digital services. A core contributor to Plone, creator of many Plone plugins and former leader of the Plone UX team. Dylan has given talks 10 different countries, 3 international Pycons and has organised monthly events for the python community in both Bangkok and Sydney. An entrepreneur with two patents to his name, Dylan is passionate about Python, user experience, startups and good food.
 #### speaker ####
 photo: prem.jpg
 ----
@@ -326,7 +326,7 @@ person: Isabel Sieh
 #### timeslot ####
 time: 2016-2-27 8:50
 ----
-title: Python — the People's Programming Language
+title: Keynote: Python — the People's Programming Language
 ----
 person: Carol Willing
 #### timeslot ####
@@ -392,7 +392,7 @@ person: Marylette Roa & Iris Uy
 #### timeslot ####
 time: 2016-2-27 16:20
 ----
-title: Python x Data x Science
+title: Keynote: Python x Data x Science
 ----
 person: Reina Reyes
 #### timeslot ####
@@ -413,7 +413,7 @@ person:
 #### timeslot ####
 time: 2016-2-28 8:00
 ----
-title: Keynote
+title: Keynote: A case study in customisable software
 ----
 person: Dylan Jay
 #### timeslot ####
