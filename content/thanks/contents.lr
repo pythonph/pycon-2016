@@ -1,0 +1,18 @@
+_model: page
+---
+title: Thanks and see you!
+---
+body:
+
+You can follow [@pyconph](https://twitter.com/pyconph) and join [our Facebook group](https://www.facebook.com/groups/pythonph/) to get updates about the event.
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1673663826184092";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-share-button" data-href="https://pycon.python.ph/" data-layout="box_count"></div>
+<script>fbq('track', 'CompleteRegistration');</script>
