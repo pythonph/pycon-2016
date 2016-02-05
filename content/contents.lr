@@ -513,6 +513,14 @@ person: Jon Danao
 marketing_partners:
 
 #### marketing_partner ####
+logo: channelfix.png
+----
+name: ChannelFix
+----
+blurb: ChannelFix is a brand new approach to social media, built on a totally original idea, using state-of-the-art technology including Python & Django. Our platform is built to conduct vote-based online video tournaments.  We aim to officially launch March of 2016 after a very successful BETA launch late 2015.
+----
+url: https://channelfix.com/
+#### marketing_partner ####
 logo: pycharm.png
 ----
 name: JetBrains PyCharm
