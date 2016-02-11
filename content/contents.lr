@@ -288,6 +288,20 @@ The premier Python open-source CMS
 Plone 5 is fifteen years of stability wrapped in a modern, powerful user-centric package. It continues to set the pace for content management systems by offering the most functionality and customization out of the box.
 ----
 url: https://plone.org/
+#### sponsor ####
+package: bronze
+----
+logo: monetize-more.png
+----
+name: MonetizeMore
+----
+blurb:
+
+MonetizeMore is an industry leader in website monetization that combines state of the art monetization technology with a team of dynamic and creative thinkers.   
+
+We empower website owners and publishers earn more from their ads.  We're a Google Certified Adsense Partner you can trust to manage your ad inventory.
+----
+url: http://www.monetizemore.com/
 ---
 gold_sponsors:
 
