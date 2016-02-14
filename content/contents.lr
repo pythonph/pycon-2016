@@ -542,3 +542,14 @@ name: JetBrains PyCharm
 blurb: JetBrains PyCharm — Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django framework.
 ----
 url: https://www.jetbrains.com/pycharm/
+---
+media_partners:
+
+#### media_partner ####
+logo: rappler.png
+----
+name: Rappler
+----
+blurb: Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves). It's a new world of limitless collaboration enabled by new technology and connected by social media.
+----
+url: http://www.rappler.com
