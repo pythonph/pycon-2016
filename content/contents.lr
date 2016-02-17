@@ -302,6 +302,18 @@ MonetizeMore is an industry leader in website monetization that combines state o
 We empower website owners and publishers earn more from their ads.  We're a Google Certified Adsense Partner you can trust to manage your ad inventory.
 ----
 url: http://www.monetizemore.com/
+#### sponsor ####
+package: bronze
+----
+logo: collabspot.svg
+----
+name: Collabspot
+----
+blurb:
+
+Collabspot helps users to be more productive within their Gmail by integrating their CRM in Google Apps.
+----
+url: https://www.collabspot.com/
 ---
 gold_sponsors:
 
