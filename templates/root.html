@@ -58,7 +58,7 @@
 </div>
 <div id="speakers">
   <h2 class="center">Speakers</h2>
-  <div class="flex flex-wrap">
+  <div class="flex flex-center">
   {% for blk in this.speakers.blocks %}
     {{ blk }}
   {% endfor %}
@@ -113,5 +113,6 @@
 {{ super() }}
 <script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.1.1/js/smooth-scroll.min.js"></script>
 <script src="{{ '/static/gumshoe.min.js'|asseturl }}"></script>
+<script src="{{ '/static/bricks.min.js'|asseturl }}"></script>
 <script src="{{ '/static/root.js'|asseturl }}"></script>
 {% endblock %}
