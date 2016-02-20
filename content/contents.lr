@@ -309,11 +309,19 @@ logo: collabspot.svg
 ----
 name: Collabspot
 ----
-blurb:
-
-Collabspot helps users to be more productive within their Gmail by integrating their CRM in Google Apps.
+blurb: Collabspot helps users to be more productive within their Gmail by integrating their CRM in Google Apps.
 ----
 url: https://www.collabspot.com/
+#### sponsor ####
+package: bronze
+----
+logo: hired.jpg
+----
+name: Hired
+----
+blurb: Hired is an online marketplace that helps top tech talent in the Philippines land a dream job at leading tech startups and companies in Singapore, Australia and tech hubs around the world. We bring job offers to you, with opportunities to work alongside world-class tech teams. Get hired and you’ll receive a $1,000 bonus from us!
+----
+url: https://hired.com.sg
 ---
 gold_sponsors:
 
