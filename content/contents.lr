@@ -2,7 +2,7 @@ _model: root
 ---
 title: PyCon Philippines 2016
 ---
-body: 
+body:
 ---
 about:
 
@@ -297,7 +297,7 @@ name: MonetizeMore
 ----
 blurb:
 
-MonetizeMore is an industry leader in website monetization that combines state of the art monetization technology with a team of dynamic and creative thinkers.   
+MonetizeMore is an industry leader in website monetization that combines state of the art monetization technology with a team of dynamic and creative thinkers.
 
 We empower website owners and publishers earn more from their ads.  We're a Google Certified Adsense Partner you can trust to manage your ad inventory.
 ----
@@ -426,15 +426,15 @@ person: Marylette Roa & Iris Uy
 #### timeslot ####
 time: 2016-2-27 16:20
 ----
-title: Keynote: Python x Data x Science
+title: Running Python without managing servers
 ----
-person: Reina Reyes
+person: Markku Lepisto
 #### timeslot ####
 time: 2016-2-27 17:00
 ----
-title: End of Day 1
+title: Keynote: Python x Data x Science
 ----
-person:
+person: Reina Reyes
 ---
 schedule_day_2:
 
@@ -498,12 +498,6 @@ time: 2016-2-28 17:15
 title: Closing Remarks
 ----
 person:
-#### timeslot ####
-time: 2016-2-28 17:30
-----
-title: End of Conference
-----
-person:
 ---
 workshops_main:
 
@@ -534,6 +528,12 @@ time: 2016-2-28 13:15
 title: Python for Beginners
 ----
 person: Sony Valdez
+#### timeslot ####
+time: 2016-2-28 15:15
+----
+title: AWS Lambda serverless computing workshop
+----
+person: Markku Lepisto
 ---
 workshops_room_b:
 
