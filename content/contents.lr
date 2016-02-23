@@ -562,6 +562,14 @@ name: JetBrains PyCharm
 blurb: JetBrains PyCharm — Python IDE with complete set of tools for productive development with Python programming language. In addition, the IDE provides high-class capabilities for professional Web development with Django framework.
 ----
 url: https://www.jetbrains.com/pycharm/
+#### marketing_partner ####
+logo: aws.png
+----
+name: Amazon Web Services
+----
+blurb: Amazon Web Services (AWS) offers a broad set of global compute, storage, database, analytics, application, and deployment services that help organizations move faster, lower IT costs, and scale applications. [@AWSCloudSEAsia](https://twitter.com/AWSCloudSEAsia) / [AWS User Group](https://www.facebook.com/groups/AWSPHUG/)
+----
+url: https://aws.amazon.com/
 ---
 media_partners:
 
