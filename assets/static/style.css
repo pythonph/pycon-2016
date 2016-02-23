@@ -9,6 +9,7 @@
 .row { width: 100% }
 .col-75 { width: 75% }
 .col-50 { width: 50% }
+.col-33 { width: 33.33% }
 .col-25 { width: 25% }
 .center { text-align: center; }
 
@@ -285,6 +286,7 @@ footer {
 @media (max-width: 600px) {
   .col-75,
   .col-50,
+  .col-33,
   .col-25 {
     width: 100%;
   }

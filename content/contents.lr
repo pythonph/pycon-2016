@@ -222,6 +222,14 @@ name: Isabel Sieh
 topic: Building a Coding Community
 ----
 bio: Isabel is a 12 year-old Grade 7 student who started teaching herself to code online when she was 10.  She has learned HTML, CSS, JavaScript and Python. In her attempts to find a community of coders, she founded Girls Will Code as an after school activity.  She loves reading, tennis, math and piano.  She is part of serial entrepreneur group Sieh Sisters who won Best Booth in 2014 Kiddopreneur Bazaar. Their latest venture is a cotton candy rental machine.  Last month she won a Star Wars costume competition where she incorporated an app on a cell phone on her R2D2 costume.
+#### speaker ####
+photo: markku.jpg
+----
+name: Markku Lepisto
+----
+topic: Running Python without managing servers / AWS Lambda serverless computing workshop
+----
+bio: Markku is the APAC Technology Evangelist at Amazon Web Services. He has been in the IT industry for 15 years, and has held various technical and management positions, covering R&D, technical support and architecture. For the past couple of years, Markku was responsible for the cloud computing architecture and technology transformation of Nokia Siemens Networksâ global business units. Markku has worked out of Finland, China and Singapore.
 ---
 sponsors:
 
