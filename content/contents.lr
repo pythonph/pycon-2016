@@ -2,7 +2,7 @@ _model: root
 ---
 title: PyCon Philippines 2016
 ---
-body:
+body: 
 ---
 about:
 
@@ -352,61 +352,55 @@ time: 2016-2-27 07:30
 ----
 title: Registration
 ----
-person:
+person: 
 #### timeslot ####
-time: 2016-2-27 8:00
+time: 2016-2-27 8:25
 ----
 title: Opening Remarks
 ----
-person:
+person: Sony Valdez
 #### timeslot ####
-time: 2016-2-27 8:15
+time: 2016-2-27 8:30
 ----
 title: Building a Coding Community
 ----
 person: Isabel Sieh
 #### timeslot ####
-time: 2016-2-27 8:50
+time: 2016-2-27 9:05
 ----
 title: Keynote: Python — the People's Programming Language
 ----
 person: Carol Willing
 #### timeslot ####
-time: 2016-2-27 9:30
+time: 2016-2-27 9:55
 ----
 title: Full-stack: Dealing with the diversity of technology
 ----
 person: Evan Dale Aromin
 #### timeslot ####
-time: 2016-2-27 10:05
+time: 2016-2-27 10:30
 ----
 title: Break
 ----
-person:
+person: 
 #### timeslot ####
-time: 2016-2-27 10:35
+time: 2016-2-27 11:00
 ----
 title: Developing PhilSHORE a Marine Spatial Tool with Python
 ----
 person: Ian Panganiban & Charmyne Mamador
 #### timeslot ####
-time: 2016-2-27 11:25
-----
-title: A Raspberry Pi Hexy
-----
-person: Mithi Sevilla
-#### timeslot ####
 time: 2016-2-27 12:00
 ----
 title: Lunch
 ----
-person:
+person: 
 #### timeslot ####
 time: 2016-2-27 13:00
 ----
-title: PyCon Inspiration
+title: A Raspberry Pi Hexy
 ----
-person: Austin Imperial
+person: Mithi Sevilla
 #### timeslot ####
 time: 2016-2-27 13:35
 ----
@@ -424,7 +418,7 @@ time: 2016-2-27 15:00
 ----
 title: Break
 ----
-person:
+person: 
 #### timeslot ####
 time: 2016-2-27 15:30
 ----
