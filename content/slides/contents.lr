@@ -1,0 +1,15 @@
+_model: page
+---
+title: Slides
+---
+body:
+
+<h3>Community Coding - Isabel Sieh</h3>
+<iframe src="//slides.com/pythonph/community-coding/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<h3>Python X Data X Science - Reina Reyes</h3>
+<iframe src="//slides.com/pythonph/python-x-data-x-science/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<h3>A Raspberry Pi Hexy - Mithi Sevilla</h3>
+<iframe src="//slides.com/pythonph/a-raspberry-pi-hexy/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
